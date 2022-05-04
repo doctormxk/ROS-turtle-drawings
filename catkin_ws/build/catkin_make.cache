@@ -1,0 +1,2 @@
+turtle_pkg
+-DCATKIN_DEVEL_PREFIX=/home/melodic/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/melodic/catkin_ws/install -G Unix Makefiles
